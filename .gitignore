@@ -1,0 +1,16 @@
+# Environnements Python
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Fichiers locaux
+.env
+.vscode/
+
+# Autres gros datasets du dossier
+electricity_map_france.csv
